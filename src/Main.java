@@ -6,11 +6,11 @@ public class Main {
         PizzaHut pastaMenu = new PizzaHut();
 
         System.out.println("PIZZA DETAILS");
-        System.out.println(pizzaMenu.pizza(PizzaEnum.CHEESE).getToppings());
-        System.out.println(pizzaMenu.pizza(PizzaEnum.CHEESE).getPrice());
-
-        System.out.println("PASTA DETAILS");
-        System.out.println(pastaMenu.pasta(PastaEnum.CARBONARA).getType());
-        System.out.println(pastaMenu.pasta(PastaEnum.CARBONARA).getPrice());
+//        System.out.println(pizzaMenu.pizza(PizzaEnum.CHEESE).getToppings());
+//        System.out.println(pizzaMenu.pizza(PizzaEnum.CHEESE).getPrice());
+//
+//        System.out.println("PASTA DETAILS");
+//        System.out.println(pastaMenu.pasta(PastaEnum.CARBONARA).getType());
+//        System.out.println(pastaMenu.pasta(PastaEnum.CARBONARA).getPrice());
     }
 }
